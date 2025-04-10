@@ -1,0 +1,15 @@
+export const ROUTE_PATHS = {
+  DEFAULT: "",
+  LOGIN: "login",
+  REGISTER: "register",
+  FORGOT_PASSWORD: "forgot-password",
+  PERMISSION_DENIED: "permission-denied",
+  CONTACT: "contact",
+  BLOG: "blog",
+  BLOG_DETAIL: "blog/:id",
+  USER_INFO: "user-info",
+  PRODUCT_ALL: "product-all",
+  PRODUCT: "product/:id",
+  PAYMENT: "payment",
+  ORDER: "order",
+};
